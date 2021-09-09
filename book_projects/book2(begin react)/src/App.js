@@ -9,7 +9,7 @@ import {Button} from 'react-bootstrap';
 import Rating from './Rating';
 import UserForm from './UserForm';
 
-class App extends Component { 
+class App extends Component {
 
   render() {
 
